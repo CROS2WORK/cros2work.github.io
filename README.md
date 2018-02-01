@@ -1,1 +1,1 @@
-cros publicity page
+delete cros publicity page
